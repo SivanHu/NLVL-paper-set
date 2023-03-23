@@ -1,7 +1,7 @@
 
 
 # Moment Retrieval 论文整理
-[D:\学习\note\SivanHu\论文集-for github\README.md](file:///D:/%E5%AD%A6%E4%B9%A0/note/SivanHu/%E8%AE%BA%E6%96%87%E9%9B%86-for%20github/README.md)
+
 
 ## 一、 CVPR2023
 
